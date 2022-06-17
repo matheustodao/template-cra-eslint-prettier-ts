@@ -1,8 +1,8 @@
-import Test from '@components/Test';
+import Home from '@pages/Home';
 
 function App() {
   return (
-    <Test />
+    <Home />
   );
 }
 
