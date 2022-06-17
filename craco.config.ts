@@ -17,6 +17,7 @@ export default {
       '@hooks': resolve('hooks/'),
       '@contexts': resolve('contexts/'),
       '@configs': resolve('configs/'),
+      '@routes': resolve('routes/'),
       '@types': resolve('types/'),
       '@mocks': resolve('mocks/'),
       '@utils': resolve('utils/'),

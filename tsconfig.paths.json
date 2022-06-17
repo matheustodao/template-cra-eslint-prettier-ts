@@ -10,6 +10,7 @@
       "@hooks/*": ["hooks/*"],
       "@contexts/*": ["contexts/*"],
       "@configs/*": ["configs/*"],
+      "@routes/*": ["routes/*"],
       "@types/*": ["types/*"],
       "@mocks/*": ["mocks/*"],
       "@utils/*": ["utils/*"]
