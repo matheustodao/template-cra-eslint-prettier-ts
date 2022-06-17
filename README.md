@@ -2,7 +2,7 @@
 
 # ./s*rc* folder structure
 
-### Just folders
+### Folders
 
 ```jsx
 src
